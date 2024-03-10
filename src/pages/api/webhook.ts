@@ -11,7 +11,7 @@ const getAsset = async (token: string) => {
       id: 'my-id',
       method: 'getAsset',
       params: {
-        id: '5FrRFQL5STPqXbwad9PK21oCFxfCtmsebyxkk3jshwsa'
+        id: 'Dd8E9oNiE8AQodkC486YB1g1KxFsGt3xH5vzZeE3iVcd'
       },
     }),
   });
